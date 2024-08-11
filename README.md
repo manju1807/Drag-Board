@@ -38,3 +38,18 @@ To run the project locally, follow these steps:
 2. In the project directory, run `npm install` or `yarn` to install the required dependencies.
 3. Run `npm start` or `yarn start` to launch the project.
 4. Open [http://localhost:5173](http://localhost:5173) (or the address shown in your console) in your web browser to view the app.
+
+## Project Demo 🚀
+
+### Video Demo
+
+![Demo Video](./public/Demo/Demo.mp4)
+
+### Screenshots
+
+![Screenshot 1](./public/Demo/demo1.png)
+![Screenshot 2](./public/Demo/demo2.png)
+![Screenshot 3](./public/Demo/demo3.png)
+![Screenshot 4](./public/Demo/demo4.png)
+![Screenshot 5](./public/Demo/demo5.png)
+![Screenshot 6](./public/Demo/demo6.png)
