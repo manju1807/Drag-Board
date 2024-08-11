@@ -1,40 +1,40 @@
-# Drag Board - A Kanban Board for Drag and Drop
+# Drag Board - A Simple Kanban Board for Drag and Drop
 
-**Drag Board** is a simple Kanban board that allows you to drag and drop tasks between columns. It is built using:
+**Drag Board** is a lightweight Kanban board that lets you easily drag and drop tasks between columns. It’s built with:
 
 - **React**
 - **DnD-Kit**
 - **TypeScript**
 - **Tailwind CSS**
-- **Framer-Motion**
-- **Lucide Icons** (for the icons)
+- **Framer Motion**
+- **Lucide Icons**
 
-## 👾 Features
+## 👾 Key Features
 
-- Drag and drop containers.
-- Delete containers and items.
-- Edit container and item names.
-- Drag and drop items between containers.
-- Add containers and items (both are draggable).
-- Indication of which container you are editing items in.
+- Drag and drop entire containers.
+- Delete containers and items with ease.
+- Edit the names of containers and individual items.
+- Seamlessly move items between containers via drag and drop.
+- Add new containers and items (both draggable).
+- Visual cues to show which container is currently being edited.
 
-## 📒 Process
+## 📒 Development Process
 
-I started by implementing the functionality for creating containers. Next, I added the ability to drag and drop containers. Afterwards, I focused on the capability to create items inside containers and further, to drag and drop them.
+The development began with implementing the functionality to create containers. Next, I added the drag-and-drop feature for the containers themselves. Following that, I focused on enabling item creation within the containers and allowing those items to be dragged and dropped.
 
-Then I styled the board, drawing inspiration from modern Kanban boards like Jira, Trello, and Notion based on my experience.
+Once the basic functionality was in place, I styled the board, drawing inspiration from modern Kanban boards like Jira, Trello, and Notion, based on my experience.
 
-Subsequently, I added functionalities for deleting items and containers. I then implemented the ability to edit the names of containers and items. Lastly, I added an indication of which container you are editing items in. Afterward, I performed some small refactoring and styling touch-ups.
+Next, I introduced features for deleting items and containers and editing their names. I also implemented visual indicators for the container currently being edited. Finally, I made some minor refactoring and styling adjustments.
 
-Some features were added in between the main features development. Everything is saved in local storage. The user can come back, and everything will still be there.
+Throughout the development process, additional features were integrated as needed. All data is saved in local storage, so users can pick up right where they left off when they return.
 
-**NOTE:** The project's purpose is to demonstrate the use of DnD-Kit and TypeScript. It is not meant to be a full-fledged Kanban board.
+**Note:** This project serves to demonstrate the use of DnD-Kit and TypeScript. It is not intended to be a fully-featured Kanban board.
 
 ## 🚦 Running the Project
 
-To run the project in your local environment, follow these steps:
+To run the project locally, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Run `npm install` or `yarn` in the project directory to install the required dependencies.
-3. Run `npm run start` or `yarn start` to get the project started.
+2. In the project directory, run `npm install` or `yarn` to install the required dependencies.
+3. Run `npm start` or `yarn start` to launch the project.
 4. Open [http://localhost:5173](http://localhost:5173) (or the address shown in your console) in your web browser to view the app.
