@@ -43,7 +43,7 @@ To run the project locally, follow these steps:
 
 ### Video Demo
 
-![Demo Video](./public/Demo/Demo.mp4)
+!([Demo Video](https://github.com/user-attachments/assets/0652dc4d-5840-446f-856a-242edf361cdf))
 
 ### Screenshots
 
