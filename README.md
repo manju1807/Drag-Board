@@ -47,9 +47,8 @@ https://github.com/user-attachments/assets/0652dc4d-5840-446f-856a-242edf361cdf
 
 ### Screenshots
 
-![Screenshot 1](./public/Demo/demo1.png)
-![Screenshot 2](./public/Demo/demo2.png)
-![Screenshot 3](./public/Demo/demo3.png)
-![Screenshot 4](./public/Demo/demo4.png)
-![Screenshot 5](./public/Demo/demo5.png)
-![Screenshot 6](./public/Demo/demo6.png)
+https://github.com/user-attachments/assets/98432d50-498a-4ec8-8d07-f14895d47a89
+https://github.com/user-attachments/assets/64cb6e2a-6172-4973-b33c-925978fe3d2d
+https://github.com/user-attachments/assets/6d8e18a5-04ea-41eb-9beb-62db6700bd68
+https://github.com/user-attachments/assets/14b23ce2-76f3-4fa1-a12c-223e3fd9718d
+https://github.com/user-attachments/assets/a67f0e26-dd30-45cf-86ba-ee1f5cf5079c
