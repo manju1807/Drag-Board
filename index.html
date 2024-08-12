@@ -1,13 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/png" href="/favicon.png" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Drag Board</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
-  </body>
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/png" href="/favicon.ico" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description"
+    content="Drag Board is a lightweight Kanban board app built with React, DnD-Kit, and TypeScript. Easily drag and drop tasks between columns, edit names, and manage your workflow efficiently.">
+  <meta name="robots" content="index, follow">
+  <title>Drag Board: Simple Kanban Board with React, DnD-Kit [&] TypeScript</title>
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://dragboard.netlify.app">
+  <meta property="og:title" content="Drag Board: Simple Kanban Board with React, DnD-Kit & TypeScript">
+  <meta property="og:description"
+    content="Drag Board is a lightweight Kanban board app built with React, DnD-Kit, and TypeScript. Easily drag and drop tasks between columns, edit names, and manage your workflow efficiently.">
+  <meta property="og:image" title="Drag Board: Simple Kanban Board with React, DnD-Kit & TypeScript" content="https://dragboard.netlify.app/og-image.png">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="https://dragboard.netlify.app">
+  <meta name="twitter:title" content="Drag Board: Simple Kanban Board with React, DnD-Kit & TypeScript">
+  <meta name="twitter:description"
+    content="Drag Board is a lightweight Kanban board app built with React, DnD-Kit, and TypeScript. Easily drag and drop tasks between columns, edit names, and manage your workflow efficiently.">
+  <meta name="twitter:image" content="https://dragboard.netlify.app/twitter-image.png">
+
+  <link rel="canonical" href="https://dragboard.netlify.app">
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Drag Board",
+      "description": "A lightweight Kanban board app built with React, DnD-Kit, and TypeScript.",
+      "operatingSystem": "Any",
+      "applicationCategory": "ProductivityApplication",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+  </script>
+</head>
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.tsx"></script>
+</body>
+
 </html>

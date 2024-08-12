@@ -40,7 +40,7 @@ import {
 } from "@dnd-kit/sortable";
 import { Layout, Text, Trash2 } from "lucide-react";
 
-export default function App() {
+export default function App () {
   const [containerName, setContainerName] = useState("");
   const { containers, setContainers, addContainer } = useContainerStore();
   const [activeId, setActiveId] = useState<UniqueIdentifier | null>(null);
